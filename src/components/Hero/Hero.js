@@ -8,11 +8,10 @@ const Hero = (props) => (
   <Section row nopadding>
     <LeftSection>
       <SectionTitle main center>
-        Hi, my name is Brayan Mejia Cuenca <br />
-        & I'm a Front-End Developer
+        Hi,< br /> My Name is Brayan & <br /> I'm a Front-End Developer
       </SectionTitle>
       <SectionText>
-      Welcome to my portfolio. Make yourself at home, it's not much, but here you can find everything I've been up to.
+      Solving Real-World Challenges through code
       </SectionText>
       <Button onClick={() => window.open('mailto:learnwithbrayan@gmail.com')}> Reach Out </Button>
     </LeftSection>
